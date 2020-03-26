@@ -1,4 +1,4 @@
-# some-useful-shell
+# VNC一键安装
 
 
 <pre><code>wget https://raw.githubusercontent.com/escher1108/some-useful-shell/master/gnome_install.sh
